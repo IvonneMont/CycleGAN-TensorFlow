@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 
 ## Layers: follow the naming convention used in the original paper
 ### Generator layers
